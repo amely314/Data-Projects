@@ -1,9 +1,9 @@
 # Data-Projects
 Projects I worked on while attending the Business Intelligence Analytics Bootcamp with Triple Ten
-**bold text** 1.Advanced Spreadsheets - NYC Airbnb 
+**1.Advanced Spreadsheets** - NYC Airbnb 
 Analyze the vacation rental market in the Manhattan borough of New York City. Identify what types of properties the client should be targeting. 
 https://docs.google.com/spreadsheets/d/1fK3AEzd6h_BuG1LuRLITt6gqF-RCfAopmpInZQm9AtQ/edit?usp=sharing
-**bold text**2.SQL- Zuber ridesharing
+**2.SQL**- Zuber ridesharing
 Find patterns in the available information to understand passenger preferences and the impact of external factors on rides.
 Working with a database, analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
 3.Business Analytics- E-commerce
