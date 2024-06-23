@@ -12,12 +12,12 @@ Estimate revenue for an investment property
 ## Main Body
 
 1) Explore and filter the data- Prepare tabs for documentation, organize the spreadsheets and filter listings
-2)Estimate rental activity for a listing by assuming numbers_of_reviews_ltm is the best estimate of how often a listing is rented
-3)Built a pivot table to determine which are the top 10 neighborhoods.
+2) Estimate rental activity for a listing by assuming numbers_of_reviews_ltm is the best estimate of how often a listing is rented
+3) Built a pivot table to determine which are the top 10 neighborhoods.
 4) Built a pivot table to determine which bedroom listings where more popular
-5)Calculate occupancy requires the available column (which has t for True and f for False) to be converted into a numeric value. Create a new column called occupied where the values are 0 and 1, respectively, for t and f
-6)Create a new pivot table using the clean calendar data. In the Values section of your pivot table, calculate the AVERAGE() of the occupied column (which has 1s and 0s). 
-7)Calculate the average price and occupancy rate for a property:
+5) Calculate occupancy requires the available column (which has t for True and f for False) to be converted into a numeric value. Create a new column called occupied where the values are 0 and 1, respectively, for t and f
+6) Create a new pivot table using the clean calendar data. In the Values section of your pivot table, calculate the AVERAGE() of the occupied column (which has 1s and 0s). 
+7) Calculate the average price and occupancy rate for a property:
 Price: $300
 Occupancy Rate: 80%
 Annual Revenue: 365 days * $300 * 80% = $87,600
