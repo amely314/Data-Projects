@@ -10,6 +10,8 @@ Analyze the vacation rental market in the Manhattan borough of New York City. Id
 
 **2.SQL**- Zuber ridesharing  
 
+https://github.com/amely314/Data-Projects/blob/main/SQL%20readme.md
+
 Find patterns in the available information to understand passenger preferences and the impact of external factors on rides.
 Working with a database, analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
 
