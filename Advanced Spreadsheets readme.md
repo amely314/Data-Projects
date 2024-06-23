@@ -25,6 +25,9 @@ Annual Revenue: 365 days * $300 * 80% = $87,600
 ## Conclusion
 
 Based on the data analysis Midtown has the highest revenue properties, with the highest percentage of occupancy.
+
 Listing 49946146 offers the highest annual revenue at 148,195. It is also a 2 bedroom unit.
+
 The average price_occupncy pivot table highlights the top 3 recommendations in Green and the next 5 viable options in yellow. 
+
 Based on the analysis, most popular listings are 1 bedroom listings but most yield a lower annual revenue. 2 bedroom units have a higher price point and overall higher occupancy rate  
