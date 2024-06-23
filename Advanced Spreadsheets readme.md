@@ -6,8 +6,8 @@ Help a client analyze the Manhattan borough of NYC. Client is interested in inve
 ## Introduction
 The objective of the project is to practice advanced spreadsheets skills. Cleaning, filtering, and using pivot tables for analysis. The goal is to answer the following questions
 
-# Which type properties should be targeted?
-# Estimate revenue for an investment property
+Which type properties should be targeted?
+Estimate revenue for an investment property
 
 ## Main Body
 
