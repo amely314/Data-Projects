@@ -34,7 +34,10 @@ Create a presentation for the Superstore, utilizing the returns information
 (https://public.tableau.com/views/StorytellingwithData_17121916510120/ReturnPresentation?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 **6. Zomato Restaurant Analysis**
+https://github.com/amely314/Data-Projects/blob/main/Zomato%20Analysis%20Readme.md
+
 •	Identify popular restaurants on Zomato considering rating/review data
 •	Determine restaurants with the highest revenue based on orders placed through Zomato.
 •	Understand the factors contributing to the success of high-revenue restaurants; I.e : cuisine,  pricing
+
 (https://public.tableau.com/views/ZomatoAnalysis_17137501450360/HighestRevenuevs_HighestRating?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
