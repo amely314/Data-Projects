@@ -16,6 +16,7 @@ Find patterns in the available information to understand passenger preferences a
 Working with a database, analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
 
 **3.Business Analytics**- E-commerce  
+https://github.com/amely314/Data-Projects/blob/main/Business%20Analytics%20README.md
 
 Build a conversion funnel. Prepare data for cohort analysis. Set up monthly data to build and track cohorts.Calculate retention rate
 (https://docs.google.com/spreadsheets/d/1D2JMtRnjvnVRozhfVFegOY4cX8SvB4hduLoHMKa-NRY/edit?usp=sharing)
