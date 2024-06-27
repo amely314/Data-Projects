@@ -28,8 +28,9 @@ Review the superstore’s operations and increase its profitability to avoid ban
 (https://public.tableau.com/views/Project4_17110730368510/AVGProfitperMonth?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 **5. Storytelling with Data**    
+https://github.com/amely314/Data-Projects/blob/main/Storytelling%20with%20data%20Readme.md
 
-Create a presentation for previous project
+Create a presentation for the Superstore, utilizing the returns information 
 (https://public.tableau.com/views/StorytellingwithData_17121916510120/ReturnPresentation?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 **6. Zomato Restaurant Analysis**
