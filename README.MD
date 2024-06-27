@@ -22,6 +22,7 @@ Build a conversion funnel. Prepare data for cohort analysis. Set up monthly data
 (https://docs.google.com/spreadsheets/d/1D2JMtRnjvnVRozhfVFegOY4cX8SvB4hduLoHMKa-NRY/edit?usp=sharing)
 
 **4. Data visualization with Tableau**- Superstore   
+https://github.com/amely314/Data-Projects/blob/main/Data%20Visualization%20with%20Tableau
 
 Review the superstore’s operations and increase its profitability to avoid bankruptcy.
 (https://public.tableau.com/views/Project4_17110730368510/AVGProfitperMonth?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
